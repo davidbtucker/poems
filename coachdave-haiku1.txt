@@ -2,6 +2,3 @@ i like writing code
 in python, java, or go
 please no javascript
 
-I like doing javascript
-python yes, I like go
-please no Java
